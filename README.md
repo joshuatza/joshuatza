@@ -16,6 +16,22 @@ With over 5 years of experience as a Full-Stack Developer, I'm passionate about 
 
 ---
 
+### GitHub Stats:
+
+<div align="center">
+  <a href="https://github.com/joshuatza">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshuatza&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="joshuatza"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joshuatza&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="joshuatza"/>
+  </a>
+</div>
+<p align="center">
+  <a href="https://github.com/joshuatza">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=joshuatza&theme=tokyonight" alt="joshuatza" />
+  </a>
+</p>
+
+---
+
 ### Languages and Tools:
 <table>
     <tr>
