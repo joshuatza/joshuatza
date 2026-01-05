@@ -1,4 +1,4 @@
-### Hello 🌎, I'm Joshua Twycross
+### Hello 🌎, I'm Joshua T
 
 With over 5 years of experience as a Full-Stack Developer, I'm passionate about building web applications, system integrations, and scalable solutions that make an impact. From React frontends to .NET backends, I thrive on turning complex problems into elegant code. Currently based in Cape Town, South Africa, I love working with modern web technologies and continuously expanding my skill set. Let's build something awesome! 🚀
 
