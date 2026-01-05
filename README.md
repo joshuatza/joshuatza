@@ -1,4 +1,4 @@
-### Hello 🌎, I'm Joshua T
+### Hello 🌎, I'm Joshua
 
 With over 5 years of experience as a Full-Stack Developer, I'm passionate about building web applications, system integrations, and scalable solutions that make an impact. From React frontends to .NET backends, I thrive on turning complex problems into elegant code. Currently based in Cape Town, South Africa, I love working with modern web technologies and continuously expanding my skill set. Let's build something awesome! 🚀
 
@@ -11,6 +11,7 @@ With over 5 years of experience as a Full-Stack Developer, I'm passionate about 
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://za.linkedin.com/in/joshuatwycross)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://joshuatza.github.io/resume/)
 
 ![Profile views](https://komarev.com/ghpvc/?username=joshuatza&label=Profile%20views&color=0e75b6&style=flat)
 
