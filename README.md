@@ -2,7 +2,7 @@
 
 With over 5 years of experience as a Full-Stack Developer, I'm passionate about building web applications, system integrations, and scalable solutions that make an impact. From React frontends to .NET backends, I thrive on turning complex problems into elegant code. Currently based in Cape Town, South Africa, I love working with modern web technologies and continuously expanding my skill set. Let's build something awesome! 🚀
 
-- 🔭 I'm currently working as a Full-Stack Developer at Modern Day Strategy
+- 🔭 I'm currently working as an Independent Contractor
 - 🌱 I'm currently learning: Advanced Next.js patterns, TanStack, and cloud architecture
 - 💬 Ask me about **React, Next.js, C#, ASP.NET Core, TypeScript, Node.js, PostgreSQL, Redis, GraphQL, AWS, Azure, GitHub Actions, CI/CD, Docker**
 - ⚡ Fun fact: I build things that work!
