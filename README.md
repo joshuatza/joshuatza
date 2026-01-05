@@ -1,26 +1,67 @@
-# Hi, I'm Joshua Twycross
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-Full-Stack Developer with 5 years of experience building web applications, system integrations, and scalable solutions.
+### Hello 🌎, I'm Joshua Twycross
 
-## About Me
-- Currently working as a Full-Stack Developer at Modern Day Strategy
-- Passionate about React, Next.js, and modern web technologies
-- Based in Cape Town, South Africa
+With over 5 years of experience as a Full-Stack Developer, I'm passionate about building web applications, system integrations, and scalable solutions that make an impact. From React frontends to .NET backends, I thrive on turning complex problems into elegant code. Currently based in Cape Town, South Africa, I love working with modern web technologies and continuously expanding my skill set. Let's build something awesome! 🚀
 
-## Tech Stack
-**Languages:** JavaScript, TypeScript, C#, Python, PHP, SQL  
-**Frontend:** React, React Native, Next.js  
-**Backend:** ASP.NET Core, Fastify, Payload CMS  
-**Database:** PostgreSQL, Redis, GraphQL  
-**Cloud:** AWS, Azure, Vercel, GitHub Actions
+  - 🔭 I'm currently working as a Full-Stack Developer at Modern Day Strategy
+  - 🌱 I'm currently learning: Advanced Next.js patterns, TanStack, and cloud architecture
+  - 💬 Ask me about **React, Next.js, C#, ASP.NET Core, TypeScript, Node.js, PostgreSQL, Redis, GraphQL, AWS, Azure, GitHub Actions, CI/CD, Docker**
+  - ⚡ Fun fact: I build things that work!
 
-## GitHub Stats
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://za.linkedin.com/in/joshuatwycross" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="Joshua_Twycross" height="40" width="60" ></i>
+</a>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshuatza&show_icons=true&theme=tokyonight)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuatza&label=Profile%20views&color=0e75b6&style=flat" alt="joshuatza" /> </p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joshuatza&theme=tokyonight)
+------
+<h3 align="left">Activity:</h3>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuatza&layout=compact&theme=tokyonight)
+[![Joshua's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joshuatza&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://za.linkedin.com/in/joshuatwycross)
+<div align="center">
+  <a href="https://github.com/joshuatza">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshuatza&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="joshuatza"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joshuatza&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="joshuatza"/>
+  </a>
+</div>
+<p align="center">
+  <a href="https://github.com/joshuatza">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=joshuatza&&theme=tokyonight" alt="joshuatza" />
+  </a>
+</p>
+
+------
+<h3 align="left">Languages and Tools:</h3>
+<table>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,python,php,fastapi"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=postgresql,redis,graphql,mysql"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=aws,azure,vercel,docker,githubactions"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,rider"/></td>
+    </tr>
+</table>
+
+------
+[joshuatza](https://github.com/joshuatza)
