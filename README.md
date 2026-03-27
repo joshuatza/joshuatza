@@ -22,74 +22,74 @@ With over 6 years of experience as a Full-Stack Developer, I'm passionate about 
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
         <td>
-            <img height="40" src="https://skillicons.dev/icons?i=cs" title="C#" alt="C#"/>
-            <img height="40" src="https://skillicons.dev/icons?i=dotnet" title=".NET" alt=".NET"/>
-            <img height="40" src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js"/>
-            <img height="40" src="https://skillicons.dev/icons?i=python" title="Python" alt="Python"/>
-            <img height="40" src="https://skillicons.dev/icons?i=php" title="PHP" alt="PHP"/>
-            <img height="40" src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" alt="FastAPI"/>
+            <span title="C#"><img height="40" src="https://skillicons.dev/icons?i=cs" alt="C#"/></span>
+            <span title=".NET"><img height="40" src="https://skillicons.dev/icons?i=dotnet" alt=".NET"/></span>
+            <span title="Node.js"><img height="40" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/></span>
+            <span title="Python"><img height="40" src="https://skillicons.dev/icons?i=python" alt="Python"/></span>
+            <span title="PHP"><img height="40" src="https://skillicons.dev/icons?i=php" alt="PHP"/></span>
+            <span title="FastAPI"><img height="40" src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI"/></span>
         </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
         <td>
-            <img height="40" src="https://skillicons.dev/icons?i=react" title="React" alt="React"/>
-            <img height="40" src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js"/>
-            <img height="40" src="https://skillicons.dev/icons?i=svelte" title="Svelte" alt="Svelte"/>
-            <img height="40" src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript"/>
-            <img height="40" src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript"/>
-            <img height="40" src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5"/>
-            <img height="40" src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3"/>
-            <img height="40" src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind CSS"/>
-            <img height="40" src="https://skillicons.dev/icons?i=threejs" title="Three.js" alt="Three.js"/>
+            <span title="React"><img height="40" src="https://skillicons.dev/icons?i=react" alt="React"/></span>
+            <span title="Next.js"><img height="40" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"/></span>
+            <span title="Svelte"><img height="40" src="https://skillicons.dev/icons?i=svelte" alt="Svelte"/></span>
+            <span title="TypeScript"><img height="40" src="https://skillicons.dev/icons?i=ts" alt="TypeScript"/></span>
+            <span title="JavaScript"><img height="40" src="https://skillicons.dev/icons?i=js" alt="JavaScript"/></span>
+            <span title="HTML5"><img height="40" src="https://skillicons.dev/icons?i=html" alt="HTML5"/></span>
+            <span title="CSS3"><img height="40" src="https://skillicons.dev/icons?i=css" alt="CSS3"/></span>
+            <span title="Tailwind CSS"><img height="40" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS"/></span>
+            <span title="Three.js"><img height="40" src="https://skillicons.dev/icons?i=threejs" alt="Three.js"/></span>
         </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
         <td>
-            <img height="40" src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" alt="PostgreSQL"/>
-            <img height="40" src="https://skillicons.dev/icons?i=redis" title="Redis" alt="Redis"/>
-            <img height="40" src="https://skillicons.dev/icons?i=graphql" title="GraphQL" alt="GraphQL"/>
-            <img height="40" src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL"/>
+            <span title="PostgreSQL"><img height="40" src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL"/></span>
+            <span title="Redis"><img height="40" src="https://skillicons.dev/icons?i=redis" alt="Redis"/></span>
+            <span title="GraphQL"><img height="40" src="https://skillicons.dev/icons?i=graphql" alt="GraphQL"/></span>
+            <span title="MySQL"><img height="40" src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/></span>
         </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
         <td>
-            <img height="40" src="https://skillicons.dev/icons?i=aws" title="AWS" alt="AWS"/>
-            <img height="40" src="https://skillicons.dev/icons?i=azure" title="Azure" alt="Azure"/>
-            <img height="40" src="https://skillicons.dev/icons?i=vercel" title="Vercel" alt="Vercel"/>
-            <img height="40" src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker"/>
-            <img height="40" src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" alt="GitHub Actions"/>
+            <span title="AWS"><img height="40" src="https://skillicons.dev/icons?i=aws" alt="AWS"/></span>
+            <span title="Azure"><img height="40" src="https://skillicons.dev/icons?i=azure" alt="Azure"/></span>
+            <span title="Vercel"><img height="40" src="https://skillicons.dev/icons?i=vercel" alt="Vercel"/></span>
+            <span title="Docker"><img height="40" src="https://skillicons.dev/icons?i=docker" alt="Docker"/></span>
+            <span title="GitHub Actions"><img height="40" src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions"/></span>
         </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
         <td>
-            <img height="40" src="https://skillicons.dev/icons?i=git" title="Git" alt="Git"/>
-            <img height="40" src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub"/>
+            <span title="Git"><img height="40" src="https://skillicons.dev/icons?i=git" alt="Git"/></span>
+            <span title="GitHub"><img height="40" src="https://skillicons.dev/icons?i=github" alt="GitHub"/></span>
         </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Game Dev:</td>
         <td>
-            <img height="40" src="https://skillicons.dev/icons?i=unity" title="Unity" alt="Unity"/>
-            <img height="40" src="https://skillicons.dev/icons?i=blender" title="Blender" alt="Blender"/>
+            <span title="Unity"><img height="40" src="https://skillicons.dev/icons?i=unity" alt="Unity"/></span>
+            <span title="Blender"><img height="40" src="https://skillicons.dev/icons?i=blender" alt="Blender"/></span>
         </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Physics:</td>
         <td>
-            <img height="40" src="https://skillicons.dev/icons?i=rust" title="Rapier Physics (Rust)" alt="Rapier Physics"/>
+            <span title="Rapier Physics (Rust)"><img height="40" src="https://skillicons.dev/icons?i=rust" alt="Rapier Physics"/></span>
         </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
         <td>
-            <img height="40" src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code"/>
-            <img height="40" src="https://skillicons.dev/icons?i=visualstudio" title="Visual Studio" alt="Visual Studio"/>
-            <img height="40" src="https://skillicons.dev/icons?i=rider" title="Rider" alt="Rider"/>
-            <img height="40" src="https://skillicons.dev/icons?i=unity" title="Unity Editor" alt="Unity Editor"/>
+            <span title="VS Code"><img height="40" src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/></span>
+            <span title="Visual Studio"><img height="40" src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio"/></span>
+            <span title="Rider"><img height="40" src="https://skillicons.dev/icons?i=rider" alt="Rider"/></span>
+            <span title="Unity Editor"><img height="40" src="https://skillicons.dev/icons?i=unity" alt="Unity Editor"/></span>
         </td>
     </tr>
 </table>
