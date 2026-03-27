@@ -3,8 +3,8 @@
 With over 6 years of experience as a Full-Stack Developer, I'm passionate about building web applications, system integrations, and scalable solutions that make an impact. From React frontends to .NET backends, I thrive on turning complex problems into elegant code. Currently based in Cape Town, South Africa, I love working with modern web technologies and continuously expanding my skill set. Let's build something awesome! 🚀
 
 - 🔭 I'm currently working as an Independent Contractor
-- 🌱 I'm currently learning: Advanced Next.js patterns, TanStack, and cloud architecture
-- 💬 Ask me about **React, Next.js, C#, ASP.NET Core, TypeScript, Node.js, PostgreSQL, Redis, GraphQL, AWS, Azure, GitHub Actions, CI/CD, Docker**
+- 🌱 I'm currently learning: Advanced Next.js patterns, Svelte, Three.js, and game development with Rapier physics
+- 💬 Ask me about **React, Next.js, Svelte, C#, ASP.NET Core, TypeScript, Node.js, PostgreSQL, Redis, GraphQL, AWS, Azure, CI/CD, Docker, Three.js**
 - ⚡ Fun fact: I build things that work!
 
 ---
@@ -25,7 +25,7 @@ With over 6 years of experience as a Full-Stack Developer, I'm passionate about 
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,svelte,ts,js,html,css,tailwind,threejs"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
@@ -40,8 +40,16 @@ With over 6 years of experience as a Full-Stack Developer, I'm passionate about 
         <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
     </tr>
     <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Game Dev:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=unity,blender"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Physics:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=rust" title="Rapier Physics"/></td>
+    </tr>
+    <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,rider"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,rider,unity"/></td>
     </tr>
 </table>
 
