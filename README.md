@@ -1,11 +1,15 @@
-### Hello 🌎, I'm Joshua
+# Hello 🌎, I'm Joshua
 
-With over 6 years of experience as a Full-Stack Developer, I'm passionate about building web applications, system integrations, and scalable solutions that make an impact. From React frontends to .NET backends, I thrive on turning complex problems into elegant code. Currently based in Cape Town, South Africa, I love working with modern web technologies and continuously expanding my skill set. Let's build something awesome! 🚀
+Senior Full-Stack Engineer based in Cape Town, South Africa with 6+ years of experience shipping production systems. I build with TypeScript, Node.js, React/Next.js, PostgreSQL, Python, and Laravel — and I use Claude Code and Cursor daily as core development tools.
 
-- 🔭 I'm currently working as an Independent Contractor
-- 🌱 I'm currently learning: Advanced Next.js patterns, Svelte, Three.js, and game development with Rapier physics
-- 💬 Ask me about **React, Next.js, Svelte, C#, ASP.NET Core, TypeScript, Node.js, PostgreSQL, Redis, GraphQL, AWS, Azure, CI/CD, Docker, Three.js**
-- ⚡ Fun fact: I build things that work!
+I've built multi-tenant SaaS platforms, greenfield CRMs, AI agent integrations, e-commerce sites, and edge security infrastructure. I care about clean architecture, shipping fast, and building things that real people use.
+
+- 🔭 Currently working on: AI-native edge security platform (Aye Eye Global) and taking on new contracts
+- 🛠️ Core stack: TypeScript, Node.js, React, Next.js, PostgreSQL, Python, Laravel, C#/.NET
+- 🤖 AI tooling: Claude Code, Cursor, OpenAI Assistants API (tool use, structured outputs)
+- 🏗️ Infrastructure: AWS Lambda, Docker, Redis, S3, Vercel, CI/CD (GitHub Actions)
+- 🌱 Exploring: Agent orchestration patterns, MCP servers, Supabase, NestJS
+- 📫 Reach me: joshuatwycross@gmail.com
 
 ---
 
@@ -27,7 +31,9 @@ With over 6 years of experience as a Full-Stack Developer, I'm passionate about 
             <span title="Node.js"><img height="40" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/></span>
             <span title="Python"><img height="40" src="https://skillicons.dev/icons?i=python" alt="Python"/></span>
             <span title="PHP"><img height="40" src="https://skillicons.dev/icons?i=php" alt="PHP"/></span>
+            <span title="Laravel"><img height="40" src="https://skillicons.dev/icons?i=laravel" alt="Laravel"/></span>
             <span title="FastAPI"><img height="40" src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI"/></span>
+            <span title="NestJS"><img height="40" src="https://skillicons.dev/icons?i=nestjs" alt="NestJS"/></span>
         </td>
     </tr>
     <tr>
@@ -35,13 +41,11 @@ With over 6 years of experience as a Full-Stack Developer, I'm passionate about 
         <td>
             <span title="React"><img height="40" src="https://skillicons.dev/icons?i=react" alt="React"/></span>
             <span title="Next.js"><img height="40" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"/></span>
-            <span title="Svelte"><img height="40" src="https://skillicons.dev/icons?i=svelte" alt="Svelte"/></span>
             <span title="TypeScript"><img height="40" src="https://skillicons.dev/icons?i=ts" alt="TypeScript"/></span>
             <span title="JavaScript"><img height="40" src="https://skillicons.dev/icons?i=js" alt="JavaScript"/></span>
             <span title="HTML5"><img height="40" src="https://skillicons.dev/icons?i=html" alt="HTML5"/></span>
             <span title="CSS3"><img height="40" src="https://skillicons.dev/icons?i=css" alt="CSS3"/></span>
             <span title="Tailwind CSS"><img height="40" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS"/></span>
-            <span title="Three.js"><img height="40" src="https://skillicons.dev/icons?i=threejs" alt="Three.js"/></span>
         </td>
     </tr>
     <tr>
@@ -49,6 +53,7 @@ With over 6 years of experience as a Full-Stack Developer, I'm passionate about 
         <td>
             <span title="PostgreSQL"><img height="40" src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL"/></span>
             <span title="Redis"><img height="40" src="https://skillicons.dev/icons?i=redis" alt="Redis"/></span>
+            <span title="Supabase"><img height="40" src="https://skillicons.dev/icons?i=supabase" alt="Supabase"/></span>
             <span title="GraphQL"><img height="40" src="https://skillicons.dev/icons?i=graphql" alt="GraphQL"/></span>
             <span title="MySQL"><img height="40" src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/></span>
         </td>
@@ -57,7 +62,6 @@ With over 6 years of experience as a Full-Stack Developer, I'm passionate about 
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
         <td>
             <span title="AWS"><img height="40" src="https://skillicons.dev/icons?i=aws" alt="AWS"/></span>
-            <span title="Azure"><img height="40" src="https://skillicons.dev/icons?i=azure" alt="Azure"/></span>
             <span title="Vercel"><img height="40" src="https://skillicons.dev/icons?i=vercel" alt="Vercel"/></span>
             <span title="Docker"><img height="40" src="https://skillicons.dev/icons?i=docker" alt="Docker"/></span>
             <span title="GitHub Actions"><img height="40" src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions"/></span>
@@ -71,25 +75,10 @@ With over 6 years of experience as a Full-Stack Developer, I'm passionate about 
         </td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Game Dev:</td>
-        <td>
-            <span title="Unity"><img height="40" src="https://skillicons.dev/icons?i=unity" alt="Unity"/></span>
-            <span title="Blender"><img height="40" src="https://skillicons.dev/icons?i=blender" alt="Blender"/></span>
-        </td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Physics:</td>
-        <td>
-            <span title="Rapier Physics (Rust)"><img height="40" src="https://skillicons.dev/icons?i=rust" alt="Rapier Physics"/></span>
-        </td>
-    </tr>
-    <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
         <td>
             <span title="VS Code"><img height="40" src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/></span>
             <span title="Visual Studio"><img height="40" src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio"/></span>
-            <span title="Rider"><img height="40" src="https://skillicons.dev/icons?i=rider" alt="Rider"/></span>
-            <span title="Unity Editor"><img height="40" src="https://skillicons.dev/icons?i=unity" alt="Unity Editor"/></span>
         </td>
     </tr>
 </table>
