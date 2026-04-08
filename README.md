@@ -4,7 +4,7 @@ Senior Full-Stack Engineer based in Cape Town, South Africa with 6+ years of exp
 
 I've built multi-tenant SaaS platforms, greenfield CRMs, AI agent integrations, e-commerce sites, and edge security infrastructure. I care about clean architecture, shipping fast, and building things that real people use.
 
-- 🔭 Currently working on: AI-native edge security platform (Aye Eye Global) and taking on new contracts
+- 🔭 Currently working on: AI-native edge security platform and taking on new contracts
 - 🛠️ Core stack: TypeScript, Node.js, React, Next.js, PostgreSQL, Python, Laravel, C#/.NET
 - 🤖 AI tooling: Claude Code, Cursor, OpenAI Assistants API (tool use, structured outputs)
 - 🏗️ Infrastructure: AWS Lambda, Docker, Redis, S3, Vercel, CI/CD (GitHub Actions)
