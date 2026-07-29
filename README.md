@@ -24,12 +24,14 @@ I've built multi-tenant SaaS platforms, greenfield CRMs, AI agent integrations, 
 ### GitHub Stats:
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=joshuatza&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=5dade2&icon_color=5dade2&text_color=c9d1d9">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=joshuatza&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=1a5276&icon_color=1a5276&text_color=333333" alt="Joshua's GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=joshuatza&hide_border=true&background=00000000&ring=5dade2&fire=5dade2&currStreakLabel=5dade2&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e">
+    <img src="https://streak-stats.demolab.com?user=joshuatza&hide_border=true&background=00000000&ring=1a5276&fire=1a5276&currStreakLabel=1a5276&sideLabels=333333&currStreakNum=333333&sideNums=333333&dates=666666" alt="GitHub streak stats" />
   </picture>
+</p>
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuatza&layout=compact&hide_border=true&bg_color=00000000&title_color=5dade2&text_color=c9d1d9">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuatza&layout=compact&hide_border=true&bg_color=00000000&title_color=1a5276&text_color=333333" alt="Top languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=joshuatza&bg_color=00000000&color=c9d1d9&line=5dade2&point=c9d1d9&area=true&area_color=5dade2&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=joshuatza&bg_color=00000000&color=333333&line=1a5276&point=333333&area=true&area_color=1a5276&hide_border=true" alt="Contribution activity graph" />
   </picture>
 </p>
 
