@@ -1,11 +1,12 @@
 # Hello 🌎, I'm Joshua
 
-Senior Full-Stack Engineer based in Cape Town, South Africa with 6+ years of experience shipping production systems. I build with TypeScript, Node.js, React/Next.js, PostgreSQL, Python, and Laravel — and I use Claude Code and Cursor daily as core development tools.
+Platform Lead and Full-Stack Engineer based in Cape Town, South Africa with 6+ years of experience shipping production systems. I build with TypeScript, Node.js, React/Next.js, PostgreSQL, Python, and Laravel — and I use Claude Code and Cursor daily as core development tools.
 
 I've built multi-tenant SaaS platforms, greenfield CRMs, AI agent integrations, e-commerce sites, and edge security infrastructure. I care about clean architecture, shipping fast, and building things that real people use.
 
-- 🔭 Currently working on: AI-native edge security platform and taking on new contracts
-- 🛠️ Core stack: TypeScript, Node.js, React, Next.js, PostgreSQL, Python, Laravel, C#/.NET
+- 🔭 Currently: Platform Lead (contract) on an AI-native edge security platform — open to new opportunities
+- 🛠️ Core stack: TypeScript, Node.js, React, Next.js, PostgreSQL, Python (FastAPI), Laravel, C#/.NET
+- 🧪 Testing: Jest, React Testing Library, CI-gated deploys
 - 🤖 AI tooling: Claude Code, Cursor, OpenAI Assistants API (tool use, structured outputs)
 - 🏗️ Infrastructure: AWS Lambda, Docker, Redis, S3, Vercel, CI/CD (GitHub Actions)
 - 🌱 Exploring: Agent orchestration patterns, MCP servers, Supabase, NestJS
@@ -65,6 +66,12 @@ I've built multi-tenant SaaS platforms, greenfield CRMs, AI agent integrations, 
             <span title="Vercel"><img height="40" src="https://skillicons.dev/icons?i=vercel" alt="Vercel"/></span>
             <span title="Docker"><img height="40" src="https://skillicons.dev/icons?i=docker" alt="Docker"/></span>
             <span title="GitHub Actions"><img height="40" src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions"/></span>
+        </td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Testing:</td>
+        <td>
+            <span title="Jest"><img height="40" src="https://skillicons.dev/icons?i=jest" alt="Jest"/></span>
         </td>
     </tr>
     <tr>
