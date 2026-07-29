@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Platform+Lead+%C2%B7+Full-Stack+Engineer;TypeScript+%C2%B7+Node.js+%C2%B7+Next.js+%C2%B7+FastAPI;Building+AI-native+platforms+that+ship&font=Fira+Code&center=true&width=560&height=50&color=5dade2&vCenter=true&pause=1000&size=22">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Platform+Lead+%C2%B7+Full-Stack+Engineer;TypeScript+%C2%B7+Node.js+%C2%B7+Next.js+%C2%B7+FastAPI;Building+AI-native+platforms+that+ship&font=Fira+Code&center=true&width=560&height=50&color=1a5276&vCenter=true&pause=1000&size=22" alt="Platform Lead · Full-Stack Engineer" />
+  </picture>
+</p>
+
 # Hello 🌎, I'm Joshua
 
 Platform Lead and Full-Stack Engineer based in Cape Town, South Africa with 6+ years of experience shipping production systems. I build with TypeScript, Node.js, React/Next.js, PostgreSQL, Python, and Laravel — and I use Claude Code and Cursor daily as core development tools.
@@ -11,6 +18,20 @@ I've built multi-tenant SaaS platforms, greenfield CRMs, AI agent integrations, 
 - 🏗️ Infrastructure: AWS Lambda, Docker, Redis, S3, Vercel, CI/CD (GitHub Actions)
 - 🌱 Exploring: Agent orchestration patterns, MCP servers, Supabase, NestJS
 - 📫 Reach me: joshuatwycross@gmail.com
+
+---
+
+### GitHub Stats:
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=joshuatza&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=5dade2&icon_color=5dade2&text_color=c9d1d9">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=joshuatza&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=1a5276&icon_color=1a5276&text_color=333333" alt="Joshua's GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuatza&layout=compact&hide_border=true&bg_color=00000000&title_color=5dade2&text_color=c9d1d9">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuatza&layout=compact&hide_border=true&bg_color=00000000&title_color=1a5276&text_color=333333" alt="Top languages" />
+  </picture>
+</p>
 
 ---
 
@@ -93,3 +114,11 @@ I've built multi-tenant SaaS platforms, greenfield CRMs, AI agent integrations, 
 ---
 
 [joshuatza](https://github.com/joshuatza)
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joshuatza/joshuatza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joshuatza/joshuatza/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution grid snake animation" src="https://raw.githubusercontent.com/joshuatza/joshuatza/output/github-contribution-grid-snake.svg">
+</picture>
