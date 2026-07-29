@@ -11,13 +11,13 @@ Platform Lead and Full-Stack Engineer based in Cape Town, South Africa with 6+ y
 
 I've built multi-tenant SaaS platforms, greenfield CRMs, AI agent integrations, e-commerce sites, and edge security infrastructure. I care about clean architecture, shipping fast, and building things that real people use.
 
-- 🔭 Currently: Platform Lead (contract) on an AI-native edge security platform — open to new opportunities
-- 🛠️ Core stack: TypeScript, Node.js, React, Next.js, PostgreSQL, Python (FastAPI), Laravel, C#/.NET
-- 🧪 Testing: Jest, React Testing Library, CI-gated deploys
-- 🤖 AI tooling: Claude Code, Cursor, OpenAI Assistants API (tool use, structured outputs)
-- 🏗️ Infrastructure: AWS Lambda, Docker, Redis, S3, Vercel, CI/CD (GitHub Actions)
-- 🌱 Exploring: Agent orchestration patterns, MCP servers, Supabase, NestJS
-- 📫 Reach me: joshuatwycross@gmail.com
+ 🔭 Currently: Platform Lead (contract) on an AI-native edge security platform — open to new opportunities
+ 🛠️ Core stack: TypeScript, Node.js, React, Next.js, PostgreSQL, Python (FastAPI), Laravel, C#/.NET
+ 🧪 Testing: Jest, React Testing Library, CI-gated deploys
+ 🤖 AI tooling: Claude Code, Cursor, OpenAI Assistants API (tool use, structured outputs)
+ 🏗️ Infrastructure: AWS Lambda, Docker, Redis, S3, Vercel, CI/CD (GitHub Actions)
+ 🌱 Exploring: Agent orchestration patterns, MCP servers, Supabase, NestJS
+ 📫 Reach me: joshuatwycross@gmail.com
 
 ---
 
