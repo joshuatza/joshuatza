@@ -17,7 +17,7 @@ I've built multi-tenant SaaS platforms, greenfield CRMs, AI agent integrations, 
 - 🤖 **AI tooling:** Claude Code, Cursor, OpenAI Assistants API (tool use, structured outputs)
 - 🏗️ **Infrastructure:** AWS Lambda, Docker, Redis, S3, Vercel, CI/CD (GitHub Actions)
 - 🌱 **Exploring:** Agent orchestration patterns, MCP servers, Supabase, NestJS
-- 📫 **Reach me:** joshuatwycross@gmail.com
+- 📫 **Reach me:** info@jtstack.org
 
 ---
 
